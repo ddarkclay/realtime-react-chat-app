@@ -1,4 +1,4 @@
-React App deployed on : https://realtime-react-chat.netlify.app/
+React App deployed on : https://realtime-react-chat.netlify.app/ <br />
 And Backend Node app on : https://chat-realtime-socket.herokuapp.com/
 
 ## Available Scripts
